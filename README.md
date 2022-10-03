@@ -5,6 +5,10 @@ This was rushed and should not be used for production.
 <br>
 This is rushed code ported to python3 in a rush. Expect bad code please.
 
+## TODO
+- execute command
+- votereset command
+
 ## Features
 - Execute Roblox Lua (;execute)
 - Supports returning data of the following types:
