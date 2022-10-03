@@ -29,3 +29,12 @@ Make sure to edit config.json and .env
 Run `python main.py` in the repo directory to start.
 <br>
 Use `;start 530` to start an RCC Instance
+
+## Credits
+Original Author: [RRE](https://github.com/ROBLOX-Reverse-Engineering)
+Original Repo: [Here](https://github.com/ROBLOX-Reverse-Engineering/RCC-SOAP-Bot)
+<br>
+Ported to python3 by [cens6r](https://github.com/cens6r)
+
+## License
+This project is licensed under the [MIT LICENSE](https://opensource.org/licenses/MIT)
